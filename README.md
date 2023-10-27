@@ -1,5 +1,5 @@
 # Countdown-timer
- The clock displays the current time in a visually appealing manner by utilizing HTML, CSS, and JavaScript.
+The countDown timer using HTML, CSS, Javascript which counts down the set time. 
 
 # [Preview]( https://rutuja20901.github.io/Countdown-timer/)
 
